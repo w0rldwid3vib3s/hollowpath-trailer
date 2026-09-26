@@ -1,0 +1,47 @@
+Hollowpath GO-H. No zip. Download each URL on its own.
+Do not upload these to YouTube and do not post the X draft automatically.
+Play: https://w0rldwid3vib3s.github.io/hollowpath/
+Buy: https://caetano72.gumroad.com/l/hollowpath?utm_source=youtube&utm_medium=video&utm_campaign=hollowpath-trailer
+Catalog: https://w0rldwid3vib3s.github.io/wwv-site/#hollowpath
+
+NOTE: The live win screen still says this is not a Release. That sentence was left as captured. The end card is the CAD $1 message. No game-repo commit was made.
+
+hollowpath-trailer-16x9.mp4
+url: https://raw.githubusercontent.com/w0rldwid3vib3s/hollowpath-trailer/main/hollowpath-trailer-16x9.mp4
+duration: 64.40 s
+resolution: 1920x1080
+spec: 30 fps, H.264, AAC
+bytes: 1702616
+what: REAL. Gameplay captured from https://w0rldwid3vib3s.github.io/hollowpath/ . Captions burned in. Music is original and synthesized, not a commercial track. Last 9 seconds is a designed end card, not gameplay.
+
+hollowpath-x-cut-16x9.mp4
+url: https://raw.githubusercontent.com/w0rldwid3vib3s/hollowpath-trailer/main/hollowpath-x-cut-16x9.mp4
+duration: 36.00 s
+resolution: 1920x1080
+spec: 30 fps, H.264, AAC
+bytes: 912875
+what: REAL. Shorter cut of the same captured gameplay, same end card. Not a placeholder.
+
+thumbnail-1280x720.jpg
+url: https://raw.githubusercontent.com/w0rldwid3vib3s/hollowpath-trailer/main/thumbnail-1280x720.jpg
+duration: still
+resolution: 1280x720
+spec: JPEG
+bytes: 50135
+what: REAL gameplay frame from the capture, with the words $1 AI-BUILT GAME added. Not a fake screenshot.
+
+youtube-meta.txt
+url: https://raw.githubusercontent.com/w0rldwid3vib3s/hollowpath-trailer/main/youtube-meta.txt
+duration: text
+resolution: n/a
+spec: UTF-8
+bytes: 808
+what: Copy for a person to paste into YouTube. This build did not upload the video.
+
+x-post-draft.txt
+url: https://raw.githubusercontent.com/w0rldwid3vib3s/hollowpath-trailer/main/x-post-draft.txt
+duration: text
+resolution: n/a
+spec: UTF-8
+bytes: 342
+what: DRAFT ONLY. A person posts this on X by hand. Do not auto-post.
